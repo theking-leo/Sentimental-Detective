@@ -1,5 +1,12 @@
 # Sentimental-Detective.
-####### Sentiment Analysis and Stock Price Correlation
+####### Sentiment Analysis and Stock Price Correlation.
+
+
+
+
+
+
+
 you can find the project presentation here. 
 https://prezi.com/view/12XFcMsAPFgTuY0LX2s2/ . 
 
